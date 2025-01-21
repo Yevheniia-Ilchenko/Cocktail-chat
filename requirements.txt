@@ -1,0 +1,11 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+faiss-cpu
+openai
+pandas
+fastapi
+uvicorn
+langchain_openai
+streamlit
